@@ -73,3 +73,24 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal Engine generated files
+**/Saved/
+**/Intermediate/
+**/DerivedDataCache/
+**/Binaries/
+**/LocalBuilds/
+
+# Unreal cache files
+**/CachedAssetRegistry*.bin
+**/AssetRegistryCache/
+
+# macOS files
+.DS_Store
+**/.DS_Store
+
+# Development files
+.vs/
+.idea/
+.vscode/
+
