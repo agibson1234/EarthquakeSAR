@@ -33,10 +33,6 @@ Additional assets included in the final map should be documented with their crea
 
 The scenario is designed to illustrate several consequences of a major earthquake, including potential structural collapse, debris accumulation, road obstructions, and damage to the built environment.
 
-**Implemented disaster features:**
-
-[Insert the actual completed damage features visible in the final map. Do not include unimplemented features.]
-
 ## Navigation Considerations
 
 **Ground robots:** Roads and open areas are intended to provide accessible routes for future ground-based search-and-rescue robots. Rubble and structural obstacles can create areas that require rerouting.
@@ -57,6 +53,8 @@ Survivor locations and autonomous navigation capabilities can be incorporated in
 ## Known Issues and Future Work
 
 - Some imported assets may have significant performance requirements.
+- There are limited free assets to implement via FAB.
+
 - The environment has not yet been integrated with autonomous UAV or ground-robot controllers.
 - Additional collision and navigation testing may be required.
 - Further enhancements could include dynamic structural destruction, dust effects, aftershocks, and survivor detection.
@@ -67,3 +65,13 @@ Survivor locations and autonomous navigation capabilities can be incorporated in
 - **Engine:** Unreal Engine 5.8
 - **Project:** Earthquake Post-Disaster Environment
 - **Purpose:** Search-and-rescue simulation and robotic navigation research
+
+## Project Screenshots
+
+
+
+
+<img width="695" height="523" alt="Screenshot 2026-10-16 at 11 25 45 PM" src="https://github.com/user-attachments/assets/63f8882a-51f9-4479-a46c-57afd8157373" />
+<img width="638" height="593" alt="Screenshot 2026-10-16 at 11 25 04 PM" src="https://github.com/user-attachments/assets/46b3a4fc-04e7-4e69-b3e3-53fa18bc480c" />
+<img width="1014" height="581" alt="Screenshot 2026-10-16 at 11 24 11 PM" src="https://github.com/user-attachments/assets/31bba667-4b10-482b-8d03-a5a6d144cbb4" />
+
